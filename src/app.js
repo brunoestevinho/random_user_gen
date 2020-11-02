@@ -6,7 +6,7 @@ class App extends React.Component {
         return (
             <h1>Welcome to REACT!!</h1>
         )
-    }
+    } 
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
